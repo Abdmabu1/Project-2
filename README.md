@@ -1,6 +1,6 @@
 
 ### Project 2
-Abdulrahman Abushal
+Name: Abdulrahman Abushal
 ### Project Description
 Create a statistical calculator with the following functions:
 -  Population Mean
