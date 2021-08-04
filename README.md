@@ -2,7 +2,8 @@
 ### Project 2
 Name: Abdulrahman Abushal
 ###
-[![Build Status](https://travis-ci.com/Abdmabu1/Project-2.svg?branch=main)](https://travis-ci.com/Abdmabu1/Project-2)### Project Description
+[![Build Status](https://travis-ci.com/Abdmabu1/Project-2.svg?branch=main)](https://travis-ci.com/Abdmabu1/Project-2)
+### Project Description
 Create a statistical calculator with the following functions:
 -  Population Mean
 -  Median
